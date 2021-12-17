@@ -1,0 +1,21 @@
+.page-item {
+}
+.page-item.active{
+
+}
+.page-item.active .page-link{
+    background-color: #000000!important;
+    color: #ffffff!important;
+    border: 1px solid #ffffff!important;
+    z-index: auto !important;
+
+}
+.page-link{
+    color: #000000!important;
+    font-weight: bold;
+}
+
+.margin-right-10{
+    margin-right: 10px!important;
+}
+
